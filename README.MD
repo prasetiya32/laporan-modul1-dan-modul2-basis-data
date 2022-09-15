@@ -35,9 +35,15 @@
 
 ## 2.Melihat table
 
-![image](https://user-images.githubusercontent.com/113566432/190336318-24e78656-473a-43ef-9aac-859ed5f72cc1.png)
+![image](https://user-images.githubusercontent.com/113566432/190336809-4095cb63-a848-4a5e-9ece-8418ff5a9039.png)
+
 
 ## 3.Membuat create database mahasiswa
 
+![image](https://user-images.githubusercontent.com/113566432/190336894-391a0320-0718-4b73-8054-4feff4c7eced.png)
+
 
 ## 4.Jangan lupa syntaks ini untuk membuat database dan table
+
+![image](https://user-images.githubusercontent.com/113566432/190337739-3628421d-6cb4-45d2-9ff9-9a957ad41eb0.png)
+
